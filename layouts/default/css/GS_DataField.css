@@ -1,0 +1,94 @@
+
+div.sylarFrmFieldMain{
+	border: solid green 1px;
+	padding: 2px;
+	margin: 2px;
+	
+	text-align: left;
+	overflow: auto;
+}
+div.sylarFrmFieldLabel{
+	padding: 3px;
+	
+	text-align: left;
+	font-size: medium;
+	background-color: #4477a2;
+	color: white;
+	float: left;
+	vertical-align: middle;
+	margin-right: 3px;
+}
+div.sylarFrmFieldInput{
+	padding: 0px;
+	
+	text-align: left;
+	font-size: medium;
+	float: left;
+}
+div.sylarFrmFieldActions{
+	border: 1px dotted #bebebe;
+	padding: 2px;
+	
+	text-align: left;
+	font-size: medium;
+	clear: none;
+	margin-left: 3px;
+}
+div.sylarFrmFieldMesg{
+	border: 1px dotted #fc2313;
+	padding: 3px;
+	
+	text-align: left;
+	font-size: medium;
+	clear: left;
+}
+
+
+
+
+
+input.sylarFrmField_email{
+	padding: 0px;
+
+	font-size: medium;
+	border: 1px solid #696969;
+	background-color: #e4e4e4;
+}
+input.sylarFrmField_currency{
+	border: 1px solid #696969;
+	background-color: #e4e4e4;
+	padding: 0px;
+
+	font-size: medium;
+}
+input.sylarFrmField_telephone{
+	border: 1px solid #696969;
+	background-color: #e4e4e4;
+	padding: 0px;
+
+	font-size: medium;
+}
+input.sylarFrmField_address{
+	border: 1px solid #696969;
+	background-color: #e4e4e4;
+	padding: 0px;
+
+	font-size: medium;
+}
+input.sylarFrmField_postalcode{
+	border: 1px solid #696969;
+	background-color: #e4e4e4;
+	padding: 0px;
+
+	font-size: medium;
+}
+input.sylarFrmField_weburl{
+	border: 1px solid #696969;
+	background-color: #e4e4e4;
+	padding: 0px;
+
+	font-size: medium;
+	font-style: italic;
+}
+
+

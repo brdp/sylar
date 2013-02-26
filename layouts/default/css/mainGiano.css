@@ -1,0 +1,9 @@
+
+body { font: 12px/18px "Lucida Grande", Geneva, Arial, Verdana, sans-serif; background-color:#fff; color:#333; }
+
+a { color: #2971a7; }
+
+
+
+.logged { background-color: #cc99cc; padding: 5px; width: 300px; }
+.not-logged { background-color: #99cccc; padding: 5px; width: 300px; }
